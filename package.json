@@ -5,7 +5,6 @@
   "repository": "https://github.com/ColdHeat/vite-manifest-css",
   "author": "Kevin Chung <kchung@ctfd.io>",
   "license": "MIT",
-  "type": "module",
   "scripts": {
     "build": "tsc index.ts"
   },
