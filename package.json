@@ -1,0 +1,12 @@
+{
+  "name": "vite-manifest-css",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "repository": "https://github.com/ColdHeat/vite-manifest-css",
+  "author": "Kevin Chung <kchung@ctfd.io>",
+  "license": "MIT",
+  "dependencies": {
+    "rollup": "^2.67.2",
+    "vite": "^2.8.3"
+  }
+}
